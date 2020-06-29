@@ -1,0 +1,16 @@
+Gripe:
+
+La gripe es una enfermedad que se da por el virus de la influenza. Su origen data desde 1933 y es una de las enfermedades más comunes en el mundo. Hay varios tipos de gripe, pero esta puede ser tratada y curada sin mayor problema en la mayoría de casos. Aun así, en mayores de edad es más complicado curar la enfermedad, y algunas de sus variaciones o combinaciones con otras enfermedades sí pueden llegar a ser mortales. Tiene similitudes con los resfriados, pero los síntomas de la gripe suelen ser más presentes que los del resfriado.
+
+Causas:
+
+-Contacto con el virus mediante los ojos, la boca o la nariz
+-Interactuar con personas con el virus, tan solo la respiración puede ser contagiosa
+-Contacto con objetos de personas contagiadas
+
+Síntomas Comunes:
+
+-Fatiga
+-Tos y dolores de garganta
+-Fiebre y escalofríos
+-Congestión Nasal

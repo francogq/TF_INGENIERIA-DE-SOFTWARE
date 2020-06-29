@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\carolina\documents\visual studio 2015\projects\project1\project1\cartas.h(343): warning C4101: 'cambio': variable local sin referencia
+c:\users\carolina\documents\visual studio 2015\projects\project1\project1\cartas.h(431): warning C4101: 'cambio': variable local sin referencia
+  MyForm1.cpp
+c:\users\carolina\documents\visual studio 2015\projects\project1\project1\cartas.h(343): warning C4101: 'cambio': variable local sin referencia
+c:\users\carolina\documents\visual studio 2015\projects\project1\project1\cartas.h(431): warning C4101: 'cambio': variable local sin referencia
+  cartas.cpp
+c:\users\carolina\documents\visual studio 2015\projects\project1\project1\cartas.h(343): warning C4101: 'cambio': variable local sin referencia
+c:\users\carolina\documents\visual studio 2015\projects\project1\project1\cartas.h(431): warning C4101: 'cambio': variable local sin referencia
+  Generando código...
+  cartas.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Project1.vcxproj -> C:\Users\Carolina\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Carolina\Documents\Visual Studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)

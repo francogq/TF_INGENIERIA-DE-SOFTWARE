@@ -1,0 +1,15 @@
+Gripe Aviar:
+
+La gripe aviar, tal como lo indica su nombre, es una enfermedad que se encuentra mayormente en las aves. Su nombre científico es “H5N1” y origina de las cepas tipo A del virus de gripe. No es común que la enfermedad se presente en humanos, pero el primer caso se dio a conocer en 1997, en la ciudad de Hong Kong. Si una persona llega a contraer la enfermedad, puede sufrir problemas respiratorios severos como la neumonía y problemas cardíacos, llegando a la muerte.
+
+Causas:
+
+-Contacto con aves contagiadas o sus heces.
+-Poco probable, pero puede traspasarse entre personas
+
+Síntomas Comunes:
+
+-Dificultades respiratorias
+-Fiebre, usualmente mayor a 38 grados C
+-Tos y Congestión nasal
+-Diarrea
